@@ -1,0 +1,101 @@
+corpus-id	filename	xmlid	author-name	title	author-birth	author-death	author-gender	author-ids	reference-year	first-edition	digital-edition	print-edition	provenance	title-ids	language	numwords	subgenre	narrative-perspective	size-category	reprint-count	time-slot	author_wikidata_id	work_wikidata_id
+ELTeC-pol	POL0096_zmichowska_poganka	POL0096	Żmichowska, Narcyza	Poganka	1819	1876	F	http://viaf.org/viaf/19701612	1846			1846			pl	37362			short	low	T1	Q445845	Q108877461
+ELTeC-pol	POL0095_zmichowska_ksiazka-pamiatek	POL0095	Żmichowska, Narcyza	Książka pamiątek	1819	1876	F	http://viaf.org/viaf/19701612	1848			1848			pl	65589			medium	low	T1	Q445845	
+ELTeC-pol	POL0034_korzeniowski_emeryt	POL0034	Korzeniowski, Józef	Emeryt	1797	1863	M	http://viaf.org/viaf/37042269	1851			1851			pl	87234			long	low	T1	Q2338973	
+ELTeC-pol	POL0032_kaczkowski_murdelio	POL0032	Kaczkowski, Zygmunt	Murdelio	1825	1896	M	http://viaf.org/viaf/35309217	1853			1853			pl	131055			long	high	T1	Q3599561	Q11786686
+ELTeC-pol	POL0035_korzeniowski_garbaty	POL0035	Korzeniowski, Józef	Garbaty	1797	1863	M	http://viaf.org/viaf/37042269	1853			1853			pl	98233			long	low	T1	Q2338973	
+ELTeC-pol	POL0036_korzeniowski_krewni	POL0036	Korzeniowski, Józef	Krewni	1797	1863	M	http://viaf.org/viaf/37042269	1857			1857			pl	176017			long	low	T1	Q2338973	
+ELTeC-pol	POL0031_kaczkowski_grob-nieczui	POL0031	Kaczkowski, Zygmunt	Grób Nieczui	1825	1896	M	http://viaf.org/viaf/35309217	1857			1857			pl	193062			long	high	T1	Q3599561	
+ELTeC-pol	POL0094_zmichowska_biala-roza	POL0094	Żmichowska, Narcyza	Biała róża	1819	1876	F	http://viaf.org/viaf/19701612	1858			1858			pl	50303			short	low	T1	Q445845	
+ELTeC-pol	POL0003_balucki_przebudzeni	POL0003	Bałucki, Michał	Przebudzeni	1837	1901	M	http://viaf.org/viaf/70005089	1864			1864			pl	49056			short	high	T2	Q1894116	
+ELTeC-pol	POL0043_lozinski-wladyslaw_czarne-godziny	POL0043	Łoziński, Władysław	Czarne godziny	1843	1913	M	http://viaf.org/viaf/56900155	1869			1869			pl	81758			medium	low	T2	Q4265443	
+ELTeC-pol	POL0046_marrene_bozek-miljon	POL0046	Marrené-Morzkowska, Waleria	Bożek Miljon	1832	1903	F	http://viaf.org/viaf/84265477	1871			1871			pl	50650			medium	low	T2	Q9370417	Q108847368
+ELTeC-pol	POL0048_marrene_roza	POL0048	Marrené-Morzkowska, Waleria	Róża	1832	1903	F	http://viaf.org/viaf/84265477	1872			1872			pl	65132			medium	low	T2	Q9370417	Q9325774
+ELTeC-pol	POL0055_orzeszkowa_marta	POL0055	Orzeszkowa, Eliza	Marta	1841	1910	F	http://viaf.org/viaf/44349228	1873			1873			pl	65886			medium	high	T2	Q240174	Q131562240
+ELTeC-pol	POL0037_kraszewski_hrabina-cosel	POL0037	Kraszewski, Józef Ignacy	Hrabina Cosel	1812	1887	M	http://viaf.org/viaf/4965235	1873			1873			pl	54208			medium	high	T2	Q254524	Q1431189
+ELTeC-pol	POL0047_marrene_mezowie-i-zony	POL0047	Marrené-Morzkowska, Waleria	Mężowie i żony	1832	1903	F	http://viaf.org/viaf/84265477	1874			1874			pl	69608			medium	low	T2	Q9370417	Q108856891
+ELTeC-pol	POL0001_balucki_bialy-murzyn	POL0001	Bałucki, Michał	Biały murzyn	1837	1901	M	http://viaf.org/viaf/70005089	1875	1875		1876	Polona		pl	66054			medium	high	T2	Q1894116	
+ELTeC-pol	POL0039_kraszewski_stara-basn	POL0039	Kraszewski, Józef Ignacy	Stara baśń	1812	1887	M	http://viaf.org/viaf/4965235	1876			1876			pl	120959			long	high	T2	Q254524	Q3647180
+ELTeC-pol	POL0056_orzeszkowa_meir-ezofowicz	POL0056	Orzeszkowa, Eliza	Meir Ezofowicz	1841	1910	F	http://viaf.org/viaf/44349228	1878			1878			pl	100694			long	high	T2	Q240174	Q11776980
+ELTeC-pol	POL0012_deotyma_zwierciadlana-zagadka	POL0012	Łuszczewska, Jadwiga	Zwierciadlana zagadka	1834	1908	F	http://viaf.org/viaf/120728150	1879			1879			pl	47623			short	low	T2	Q274324	
+ELTeC-pol	POL0038_kraszewski_pogrobek	POL0038	Kraszewski, Józef Ignacy	Pogrobek	1812	1887	M	http://viaf.org/viaf/4965235	1880			1880			pl	70511			medium	high	T3	Q254524	Q11821074
+ELTeC-pol	POL0059_papi_szlachetne-marzenia	POL0059	Papi, Jadwiga	Szlachetne marzenia	1843	1906	F	http://viaf.org/viaf/14351639	1883			1883			pl	21192			short	low	T3	Q17313427	
+ELTeC-pol	POL0079_sygietynski_na-skalach-calvados	POL0079	Sygietyński, Antoni	Na skałach Calvados	1850	1923	M	http://viaf.org/viaf/54273263	1884			1884			pl	47523			short	low	T3	Q9157443	
+ELTeC-pol	POL0070_sienkiewicz_ogniem-i-mieczem	POL0070	Sienkiewicz, Henryk	Ogniem i mieczem	1846	1916	M	http://viaf.org/viaf/24608122	1884			1884			pl	281837			long	high	T3	Q41502	Q927292
+ELTeC-pol	POL0024_dygasinski_wilk-psy-i-ludzie	POL0024	Dygasiński, Adolf	Wilk, psy i ludzie	1839	1902	M	http://viaf.org/viaf/8187131	1884			1884			pl	15086			short	low	T3	Q2376615	Q9374571
+ELTeC-pol	POL0054_morawska_wilcze-gniazdo	POL0054	Morawska, Zuzanna	Wilcze gniazdo	1840	1922	F		1885			1885			pl	27412			short	low	T3		
+ELTeC-pol	POL0044_lozinski-wladyslaw_hazardy	POL0044	Łoziński, Władysław	Hazardy	1843	1913	M	http://viaf.org/viaf/56900155	1887			1887			pl	64737			medium	low	T3	Q4265443	
+ELTeC-pol	POL0002_balucki_pan-burmistrz	POL0002	Bałucki, Michał	Pan burmistrz z Pipidówki	1837	1901	M	http://viaf.org/viaf/70005089	1887			1887			pl	32595			short	high	T3	Q1894116	Q135279347
+ELTeC-pol	POL0057_orzeszkowa_nad-niemnem	POL0057	Orzeszkowa, Eliza	Nad Niemnem	1841	1910	F	http://viaf.org/viaf/44349228	1888			1888			pl	169047			long	high	T3	Q240174	Q3499690
+ELTeC-pol	POL0088_zapolska_kaska-kariatyda	POL0088	Zapolska, Gabriela	Kaśka Kariatyda	1857	1921	F	http://viaf.org/viaf/36937720	1888			1888			pl	101834			long	high	T3	Q454870	
+ELTeC-pol	POL0010_deotyma_branki-w-jasyrze	POL0010	Łuszczewska, Jadwiga	Branki w jasyrze	1834	1908	F	http://viaf.org/viaf/120728150	1889			1889			pl	95601			long	low	T3	Q274324	
+ELTeC-pol	POL0033_kaczkowski_olbrachtowi-rycerze	POL0033	Kaczkowski, Zygmunt	Olbrachtowi rycerze	1825	1896	M	http://viaf.org/viaf/35309217	1889			1889			pl	265075			long	high	T3	Q3599561	
+ELTeC-pol	POL0068_rodziewiczowna_miedzy-ustami-a-brzegiem-pucharu	POL0068	Rodziewiczówna, Maria	Między ustami a brzegiem pucharu	1864	1944	F	http://viaf.org/viaf/101739597	1889			1889			pl	59591			medium	high	T3	Q6761541	Q25413723
+ELTeC-pol	POL0063_prus_lalka	POL0063	Prus, Bolesław	Lalka	1847	1912	M	http://viaf.org/viaf/64016160	1890			1890			pl	263173			long	high	T3	Q144439	Q7476662
+ELTeC-pol	POL0023_dygasinski_pan-jedrzej-piszczalski	POL0023	Dygasiński, Adolf	Pan Jędrzej Piszczalski	1839	1902	M	http://viaf.org/viaf/8187131	1890			1890			pl	86521			long	low	T3	Q2376615	
+ELTeC-pol	POL0081_sygietynski_wysadzony-z-siodla	POL0081	Sygietyński, Antoni	Wysadzony z siodła	1850	1923	M	http://viaf.org/viaf/54273263	1891			1891			pl	54834			medium	low	T3	Q9157443	
+ELTeC-pol	POL0011_deotyma_panienka-z-okienka	POL0011	Łuszczewska, Jadwiga	Panienka z okienka	1834	1908	F	http://viaf.org/viaf/120728150	1893			1893			pl	88493			long	low	T3	Q274324	Q11802644
+ELTeC-pol	POL0061_prus_emancypantki	POL0061	Prus, Bolesław	Emancypantki	1847	1912	M	http://viaf.org/viaf/64016160	1894			1894			pl	129085			long	high	T3	Q144439	Q7753783
+ELTeC-pol	POL0058_papi_ognisko-rodzinne	POL0058	Papi, Jadwiga	Ognisko rodzinne	1843	1906	F	http://viaf.org/viaf/14351639	1894			1894			pl	45609			short	low	T3	Q17313427	
+ELTeC-pol	POL0072_sienkiewicz_rodzina-polanieckich	POL0072	Sienkiewicz, Henryk	Rodzina Połanieckich	1846	1916	M	http://viaf.org/viaf/24608122	1895			1895			pl	210389			long	high	T3	Q41502	Q9311644
+ELTeC-pol	POL0027_godlewska-ludwika_po-zdrowie	POL0027	Godlewska, Ludwika	Po zdrowie	1863	1901	F	http://viaf.org/viaf/164716389	1896			1896			pl	54876			medium	low	T3	Q11764021	
+ELTeC-pol	POL0065_reymont_komediantka	POL0065	Reymont, Władysław Stanisław	Komediantka	1867	1925	M	http://viaf.org/viaf/4935777	1896			1896			pl	83455			medium	high	T3	Q121180	Q11741522
+ELTeC-pol	POL0077_swietochowski_tragokomedya-prawdy	POL0077	Świętochowski, Aleksander	Tragikomedya prawdy	1849	1938	M	http://viaf.org/viaf/22939255	1896			1896			pl	22604			short	low	T3	Q723324	Q19170159
+ELTeC-pol	POL0071_sienkiewicz_quo-vadis	POL0071	Sienkiewicz, Henryk	Quo vadis	1846	1916	M	http://viaf.org/viaf/24608122	1896			1896			pl	174321			long	high	T3	Q41502	Q335315
+ELTeC-pol	POL0022_dygasinski_as	POL0022	Dygasiński, Adolf	As	1839	1902	M	http://viaf.org/viaf/8187131	1896			1896			pl	40650			short	high	T3	Q2376615	Q19125745
+ELTeC-pol	POL0004_beczkowska_co-bedzie	POL0004	Grot-Bęczkowska, Wanda	Co będzie z naszego chłopca?	1854	1925	F	http://viaf.org/viaf/187234530	1896			1896			pl	35609			short	low	T3	Q9370796	
+ELTeC-pol	POL0062_prus_faraon	POL0062	Prus, Bolesław	Faraon	1847	1912	M	http://viaf.org/viaf/64016160	1897			1897			pl	198296			long	high	T3	Q144439	Q2379553
+ELTeC-pol	POL0093_zeromski_syzyfowe-prace	POL0093	Żeromski, Stefan	Syzyfowe prace	1864	1925	M	http://viaf.org/viaf/189239633	1898			1898			pl	65554			medium	high	T3	Q366040	Q7663966
+ELTeC-pol	POL0025_godlewska-ludwika_kato	POL0025	Godlewska, Ludwika	Kato	1863	1901	F	http://viaf.org/viaf/164716389	1898			1898			pl	90002			long	low	T3	Q11764021	
+ELTeC-pol	POL0005_beczkowska_kedy-droga	POL0005	Grot-Bęczkowska, Wanda	Kędy droga?	1854	1925	F	http://viaf.org/viaf/187234530	1898			1898			pl	82956			medium	low	T3	Q9370796	
+ELTeC-pol	POL0026_godlewska-ludwika_kwiat-aloesu	POL0026	Godlewska, Ludwika	Kwiat aloesu	1863	1901	F	http://viaf.org/viaf/164716389	1899			1899			pl	24414			short	low	T3	Q11764021	
+ELTeC-pol	POL0066_reymont_ziemia-obiecana	POL0066	Reymont, Władysław Stanisław	Ziemia obiecana	1867	1925	M	http://viaf.org/viaf/4935777	1899			1899			pl	173882			long	high	T3	Q121180	Q3656167
+ELTeC-pol	POL0006_beczkowska_w-mieszczanskim-gniezdzie	POL0006	Grot-Bęczkowska, Wanda	W mieszczańskim gnieździe	1854	1925	F	http://viaf.org/viaf/187234530	1899			1899			pl	53885			medium	low	T3	Q9370796	
+ELTeC-pol	POL0069_rodziewiczowna_straszny-dziadunio	POL0069	Rodziewiczówna, Maria	Straszny dziadunio	1864	1944	F	http://viaf.org/viaf/101739597	1899			1899			pl	35761			short	high	T3	Q6761541	Q9346461
+ELTeC-pol	POL0045_lozinski-wladyslaw_oko-proroka	POL0045	Łoziński, Władysław	Oko proroka	1843	1913	M	http://viaf.org/viaf/56900155	1899			1899			pl	81758			medium	low	T3	Q4265443	Q108849655
+ELTeC-pol	POL0013_dmochowska_dwor-w-haliniszkach	POL0013	Dmochowska, Emma	Dwór w Haliniszkach	1864	1919	F	http://viaf.org/viaf/163971581	1903			1903			pl	132873			long	low	T4	Q11696882	
+ELTeC-pol	POL0097_zulawski_na-srebrnym-globie	POL0097	Żuławski, Jerzy	Na srebrnym globie	1874	1915	M	http://viaf.org/viaf/20269297	1903			1903			pl	64507			medium	high	T4	Q1373117	
+ELTeC-pol	POL0009_berent_prochno	POL0009	Berent, Wacław	Próchno	1873	1940	M	http://viaf.org/viaf/22203184	1903			1903			pl	80318			medium	low	T4	Q2441886	Q11830442
+ELTeC-pol	POL0090_zapolska_sezonowa-milosc	POL0090	Zapolska, Gabriela	Sezonowa miłość	1857	1921	F	http://viaf.org/viaf/36937720	1904			1904			pl	108195			long	low	T4	Q454870	Q15730141
+ELTeC-pol	POL0060_papi_w-sloncu	POL0060	Papi, Jadwiga	W słońcu	1843	1906	F	http://viaf.org/viaf/14351639	1904			1904			pl	33836			short	low	T4	Q17313427	
+ELTeC-pol	POL0083_weyssenhoff_narodziny-dzialacza	POL0083	Weyssenhoff, Józef	Narodziny działacza	1860	1932	M	http://viaf.org/viaf/39411801	1906			1906			pl	28240			short	low	T4	Q4893733	Q108845363
+ELTeC-pol	POL0015_dmochowska_obraczka	POL0015	Dmochowska, Emma	Obrączka	1864	1919	F	http://viaf.org/viaf/163971581	1907			1907			pl	58742			medium	low	T4	Q11696882	
+ELTeC-pol	POL0091_zeromski_dzieje-grzechu	POL0091	Żeromski, Stefan	Dzieje grzechu	1864	1925	M	http://viaf.org/viaf/189239633	1908			1908			pl	151924			long	high	T4	Q366040	Q18424379
+ELTeC-pol	POL0064_reymont_chlopi	POL0064	Reymont, Władysław Stanisław	Chłopi	1867	1925	M	http://viaf.org/viaf/4935777	1909			1909			pl	326603			long	high	T4	Q121180	Q2896338
+ELTeC-pol	POL0051_mniszek_tredowata	POL0051	Mniszek, Helena	Trędowata	1878	1943	F	http://viaf.org/viaf/920864	1909			1909			pl	120753			long	high	T4	Q11708825	Q662952
+ELTeC-pol	POL0021_domanska_paziowie-krola-zygmunta	POL0021	Domańska, Antonina	Paziowie króla Zygmunta	1853	1917	F	http://viaf.org/viaf/3522169	1910			1910			pl	43324			short	low	T4	Q4165703	Q60856369
+ELTeC-pol	POL0040_krzemieniecka_a-gdy-odejdzie	POL0040	Krzemieniecka, Hanna	A gdy odejdzie w przepaść wieczną	1866	1930	F	http://viaf.org/viaf/166400239	1910			1910			pl	54131			medium	low	T4	Q9285993	
+ELTeC-pol	POL0099_zulawski_zwyciezca	POL0099	Żuławski, Jerzy	Zwycięzca	1874	1915	M	http://viaf.org/viaf/20269297	1910			1910			pl	84111			medium	high	T4	Q1373117	Q9392684
+ELTeC-pol	POL0073_strug_dzieje-jednego-pocisku	POL0073	Strug, Andrzej	Dzieje jednego pocisku	1871	1937	M	http://viaf.org/viaf/64041122	1910			1910			pl	64359			medium	low	T4	Q4759711	Q9248397
+ELTeC-pol	POL0050_mniszek_ordynat-michorowski	POL0050	Mniszek, Helena	Ordynat michorowski	1878	1943	F	http://viaf.org/viaf/920864	1910			1910			pl	48668			short	high	T4	Q11708825	
+ELTeC-pol	POL0053_morawska_na-zgliszczach-zakonu	POL0053	Morawska, Zuzanna	Na zgliszczach Zakonu	1840	1922	F		1911			1911			pl	38868			short	low	T4		
+ELTeC-pol	POL0052_morawska_adiutant-nastepcy-tronu	POL0052	Morawska, Zuzanna	Adjutant następcy tronu	1840	1922	F		1911			1911			pl	31605			short	low	T4		
+ELTeC-pol	POL0008_berent_ozimina	POL0008	Berent, Wacław	Ozimina	1873	1940	M	http://viaf.org/viaf/22203184	1911			1911			pl	68502			medium	low	T4	Q2441886	Q11801350
+ELTeC-pol	POL0049_mniszek_gehenna	POL0049	Mniszek, Helena	Gehenna	1878	1943	F	http://viaf.org/viaf/920864	1912			1912			pl	170796			long	high	T4	Q11708825	Q108867218
+ELTeC-pol	POL0084_weyssenhoff_sobol-i-panna	POL0084	Weyssenhoff, Józef	Soból i panna	1860	1932	M	http://viaf.org/viaf/39411801	1912			1912			pl	63400			medium	low	T4	Q4893733	Q9338979
+ELTeC-pol	POL0019_domanska_historia-zoltej-cizemki	POL0019	Domańska, Antonina	Historia żółtej ciżemki	1853	1917	F	http://viaf.org/viaf/3522169	1913			1913			pl	62366			medium	low	T4	Q4165703	Q9293019
+ELTeC-pol	POL0089_zapolska_kobieta-bez-skazy	POL0089	Zapolska, Gabriela	Kobieta bez skazy	1857	1921	F	http://viaf.org/viaf/36937720	1913			1913			pl	70554			medium	low	T4	Q454870	
+ELTeC-pol	POL0082_weyssenhoff_gromada	POL0082	Weyssenhoff, Józef	Gromada	1860	1932	M	http://viaf.org/viaf/39411801	1913			1913			pl	59634			medium	low	T4	Q4893733	Q108849935
+ELTeC-pol	POL0020_domanska_krysia-bezimienna	POL0020	Domańska, Antonina	Krysia bezimienna	1853	1917	F	http://viaf.org/viaf/3522169	1914			1914			pl	34310			short	low	T4	Q4165703	
+ELTeC-pol	POL0098_zulawski_powrot	POL0098	Żuławski, Jerzy	Powrót	1874	1915	M	http://viaf.org/viaf/20269297	1914			1914			pl	64507			medium	high	T4	Q1373117	Q19163528
+ELTeC-pol	POL0014_dmochowska_jak-odlamana-galaz	POL0014	Dmochowska, Emma	Jak odłamana gałąź	1864	1919	F	http://viaf.org/viaf/163971581	1914			1914			pl	50488			short	low	T4	Q11696882	
+ELTeC-pol	POL0076_swietochowski_drygalowie	POL0076	Świętochowski, Aleksander	Drygałowie	1849	1938	M	http://viaf.org/viaf/22939255	1915			1915			pl	44297			short	low	T4	Q723324	
+ELTeC-pol	POL0080_sygietynski_swiety-ogien	POL0080	Sygietyński, Antoni	Święty ogień	1850	1923	M	http://viaf.org/viaf/54273263	1918			1918			pl	40324			short	low	T4	Q9157443	
+ELTeC-pol	POL0067_rodziewiczowna_lato-lesnych-ludzi	POL0067	Rodziewiczówna, Maria	Lato leśnych ludzi	1864	1944	F	http://viaf.org/viaf/101739597	1920			1920			pl	45202			short	high	T4	Q6761541	Q11753191
+ELTeC-pol	POL0100_makuszynski_po-mlecznej-drodze	POL0100	Makuszyński, Kornel	Po mlecznej drodze	1884	1953	M	http://viaf.org/viaf/24615563	1920	1920			Computational Stylistics Group in Krakow		pol	54705			medium	high	T4	Q1028469	
+ELTeC-pol	POL0042_krzemieniecka_leca-wichry	POL0042	Krzemieniecka, Hanna	Lecą wichry!	1866	1930	F	http://viaf.org/viaf/166400239	1923			1923			pl	75740			medium	low	T4	Q9285993	
+ELTeC-pol	POL0092_zeromski_przedwiosnie	POL0092	Żeromski, Stefan	Przedwiośnie	1864	1925	M	http://viaf.org/viaf/189239633	1924			1924			pl	87994			medium	high	T4	Q366040	Q7766066
+ELTeC-pol	POL0029_grabinski_salamandra	POL0029	Grabiński, Stefan	Salamandra	1887	1936	M	http://viaf.org/viaf/8490048	1924			1924			pl	32079			short	low	T4	Q721032	
+ELTeC-pol	POL0074_strug_pokolenie-marka-swidy	POL0074	Strug, Andrzej	Pokolenie Marka Świdy	1871	1937	M	http://viaf.org/viaf/64041122	1925			1925			pl	89503			long	low	T4	Q4759711	Q108867208
+ELTeC-pol	POL0087_witkacy_pozegnanie-jesieni	POL0087	Witkiewicz, Stanisław Ignacy	Pożegnanie jesieni	1885	1939	M	http://viaf.org/viaf/88039095	1927			1927			pl	128659			long	low	T4	Q381238	Q11826473
+ELTeC-pol	POL0041_krzemieniecka_fatum	POL0041	Krzemieniecka, Hanna	Fatum	1866	1930	F	http://viaf.org/viaf/166400239	1928			1928			pl	38078			short	low	T4	Q9285993	
+ELTeC-pol	POL0086_witkacy_nienasycenie	POL0086	Witkiewicz, Stanisław Ignacy	Nienasycenie	1885	1939	M	http://viaf.org/viaf/88039095	1930			1930			pl	206917			long	low	T4	Q381238	Q6037124
+ELTeC-pol	POL0028_grabinski_namietnosc	POL0028	Grabiński, Stefan	Namiętność	1887	1936	M	http://viaf.org/viaf/8490048	1930			1930			pl	12103			short	low	T4	Q721032	
+ELTeC-pol	POL0016_dolega-mostowicz_kariera-nikodema-dyzmy	POL0016	Dołęga, Tadeusz-Mostowicz	Kariera Nikodema Dyzmy	1898	1939	M	http://viaf.org/viaf/17325963	1932			1932			pl	85595			medium	high	T4	Q973270	Q2614387
+ELTeC-pol	POL0075_strug_zolty-krzyz	POL0075	Strug, Andrzej	Żółty krzyż	1871	1937	M	http://viaf.org/viaf/64041122	1933			1933			pl	139338			long	low	T4	Q4759711	Q19061078
+ELTeC-pol	POL0085_witkacy_jedyne-wyjscie	POL0085	Witkiewicz, Stanisław Ignacy	Jedyne wyjście	1885	1939	M	http://viaf.org/viaf/88039095	1933			1933			pl	34812			short	low	T4	Q381238	Q18425755
+ELTeC-pol	POL0078_swietochowski_twinko	POL0078	Świętochowski, Aleksander	Twinko	1849	1938	M	http://viaf.org/viaf/22939255	1936			1936			pl	45993			short	low	T4	Q723324	
+ELTeC-pol	POL0030_grabinski_wyspa-itongo	POL0030	Grabiński, Stefan	Wyspa Itongo	1887	1936	M	http://viaf.org/viaf/8490048	1936			1936			pl	47046			short	low	T4	Q721032	
+ELTeC-pol	POL0007_berent_diogenes-w-kontuszu	POL0007	Berent, Wacław	Diogenes w kontuszu	1873	1940	M	http://viaf.org/viaf/22203184	1937			1937			pl	38983			short	low	T4	Q2441886	Q20035223
+ELTeC-pol	POL0018_dolega-mostowicz_znachor	POL0018	Dołęga, Tadeusz-Mostowicz	Znachor	1898	1939	M	http://viaf.org/viaf/17325963	1938			1938			pl	80253			medium	high	T4	Q973270	Q9391574
+ELTeC-pol	POL0017_dolega-mostowicz_pamietnik-pani-hanki	POL0017	Dołęga, Tadeusz-Mostowicz	Pamiętnik pani Hanki	1898	1939	M	http://viaf.org/viaf/17325963	1939			1939			pl	98286			long	high	T4	Q973270	Q11802484
